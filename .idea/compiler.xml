@@ -10,17 +10,17 @@
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar" />
         </processorPath>
-        <module name="adt-library" />
-        <module name="reservationservice" />
-        <module name="authservice" />
-        <module name="studentservice" />
-        <module name="bookservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="adt-library" target="21" />
       <module name="adt-library (1)" target="21" />
       <module name="adt-library (3)" target="21" />
+      <module name="authservice" target="21" />
+      <module name="bookservice" target="21" />
       <module name="notificationservice" target="21" />
+      <module name="reservationservice" target="21" />
+      <module name="studentservice" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

@@ -19,7 +19,12 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/adt-library/pom.xml" />
+        <option value="$PROJECT_DIR$/authservice/pom.xml" />
+        <option value="$PROJECT_DIR$/bookservice/pom.xml" />
         <option value="$PROJECT_DIR$/notificationservice/pom.xml" />
+        <option value="$PROJECT_DIR$/reservationservice/pom.xml" />
+        <option value="$PROJECT_DIR$/studentservice/pom.xml" />
       </set>
     </option>
   </component>
